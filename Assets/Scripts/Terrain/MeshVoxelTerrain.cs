@@ -2,7 +2,7 @@
 using Procedural.Terrain;
 using UnityEngine;
 
-namespace Ares.Components
+namespace Grapple.Terrain
 {
     public class MeshVoxelTerrain : MonoBehaviour
     {

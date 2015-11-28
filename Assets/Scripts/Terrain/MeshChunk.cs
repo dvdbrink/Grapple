@@ -3,7 +3,7 @@ using Procedural.Terrain;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace Ares.Components
+namespace Grapple.Terrain
 {
     public class MeshChunk : IChunk
     {

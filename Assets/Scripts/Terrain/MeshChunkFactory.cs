@@ -3,7 +3,7 @@ using Procedural.Noise;
 using Procedural.Terrain;
 using UnityEngine;
 
-namespace Ares.Components
+namespace Grapple.Terrain
 {
     public class MeshChunkFactory : IChunkFactory
     {

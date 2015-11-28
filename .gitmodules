@@ -9,4 +9,4 @@
 	url = https://github.com/prime31/StateKit.git
 [submodule "Submodules/Procedural"]
 	path = Submodules/Procedural
-	url = https://github.com/dvdbrink/procedural.git
+	url = https://github.com/dvdbrink/Procedural.git
