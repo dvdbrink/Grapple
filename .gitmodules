@@ -1,0 +1,12 @@
+[submodule "Submodules/Zenject"]
+	path = Submodules/Zenject
+	url = https://github.com/modesttree/Zenject.git
+[submodule "Submodules/MessageKit"]
+	path = Submodules/MessageKit
+	url = https://github.com/prime31/MessageKit.git
+[submodule "Submodules/StateKit"]
+	path = Submodules/StateKit
+	url = https://github.com/prime31/StateKit.git
+[submodule "Submodules/Procedural"]
+	path = Submodules/Procedural
+	url = https://github.com/dvdbrink/procedural.git
