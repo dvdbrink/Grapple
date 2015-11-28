@@ -70,6 +70,11 @@ namespace Ares.Components
             _gameObject.GetComponent<MeshCollider>().sharedMesh = _mesh;
         }
 
+        public void Draw()
+        {
+
+        }
+
         public void Dispose()
         {
             _mesh = null;
